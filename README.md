@@ -20,5 +20,5 @@
 
 ```txt
 JavaScript · TypeScript · Node.js · Express.js · NestJS
-MongoDB · Mongoose · PostgreSQL · REST API · Git · GitHub
-HTML5 · CSS3 · Bootstrap
+MongoDB · Mongoose · PostgreSQL · Sequalize · TypeORM
+REST API · Git · GitHub · HTML5 · CSS3 · Bootstrap 
